@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "RandomServer-Fdg3.aternos.me",
+    "ip": "RandomServer-Fdg3.aternos.me:39922",
     "port": 39922,
-    "version": "",
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
